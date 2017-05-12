@@ -1,0 +1,75 @@
+.m_shopping {
+    padding: 0;
+}
+
+.m_shopping .shopping-main-description {
+    display: none;
+}
+
+.m_shopping .shopping-description {
+    display: none;
+}
+
+.m_shopping .shopping-header {
+    height: 30px;
+    padding: 30px;
+    background: #cf4f4f;
+}
+
+.section-width-large .m_shopping .shopping-title {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+
+.m_shopping.large-mode .shopping-menu {
+    background: #383639;
+    text-align: center;
+    justify-content: center;
+    display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: flex;
+}
+
+.m_shopping .shopping-menu-item {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    background: none;
+}
+
+.m_shopping .shopping-menu-item.selected {
+    border: none;
+    background: none;
+}
+
+.m_shopping .shopping-menu-item>a {
+	display: block;
+	padding: 18px 10px;
+	font-family: 'Montserrat', sans-serfif;
+	border: none !important;
+	color: #cf5a4f;
+	border-radius: 0;
+}
+
+.m_shopping .shopping-menu-item:hover>a {
+    background: #cf4f4f;
+    color: #c1c1c1;
+}
+
+.m_shopping .shopping-footer-block {
+	padding: 10px;
+	background: #cf4f4f;
+}
+
+a.store-admin-link {
+    color: #fff;
+}
+
+a.shopping-language {
+    color: #fff;
+}
+
+a.subs_link {
+    color: #fff;
+}
