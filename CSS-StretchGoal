@@ -13,3 +13,8 @@ If you have any further questions about this code, send me a private message her
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Oxygen|Raleway');
 
+.m_stretchgoal {
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 3px rgba(0, 0, 0, 0.12);
+}
