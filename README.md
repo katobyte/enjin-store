@@ -1,2 +1,2 @@
-# m_shopping_module
-This contains the code for nasclub.co/store
+# stretchgoal-donation system
+This contains code to improve the Stretch-Goal Donation System module on Enjin Websites. 
